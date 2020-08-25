@@ -1,0 +1,40 @@
+body{
+    width: 100%;
+    margin: 0;
+    background:#f2f2f2;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+input[type="text"] {
+    border-top-style: hidden;
+    border-right-style: hidden;
+    border-left-style: hidden;
+    border-bottom-style: groove;
+    background-color: #fff;
+    border-color: #ffffff;
+    width: 60%;
+}
+
+
+
+.astrik{
+    color: red;
+}
+.btn-primary{
+    background:#673ab7;
+    border-color: #673ab7;
+}
+.no-outline:focus {
+    outline: none;
+}
+label {
+    margin-bottom: 30px;
+}
+.card {
+
+    border: 1px solid rgb(0 0 0 / 8%);
+    border-radius: 0.50rem;
+}
+
+ 
